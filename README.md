@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 | Category | What I’m playing with / learning |
 |---------|------------------------------------|
 | Design / UI / Frontend | UI design, layout & styling, responsive design, design-first thinking |
-| Programming / Coding (in progress) | Java, C#, HTML, CSS|
+| Programming / Coding (in progress) | Java, C#|
 | Mindset / Soft Skills | Clean design, creativity, learning by doing, problem-solving, continuously improving |
 
 > ⚡ *Right now I’m still learning — but I believe progress comes by building small projects and practising regularly.*
